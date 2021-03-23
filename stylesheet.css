@@ -3,6 +3,7 @@ header {
     width: 100%;
     background-color: black;
     font: white;
+    display: flex
 }
 .header-logo {
     text-align: center;
