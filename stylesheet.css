@@ -1,16 +1,22 @@
 header {
-    height: 500px;
+    height: 300px;
     width: 100%;
     background-color: black;
+    color: white;
 }
 .header-logo {
     text-align: center;
     font-size: 20px;
     padding: 50px;
-    font: white;
 }
 header li {
     padding: 30px;
-    font: white;
     float: left;
+}
+.menu-icon {
+    width: 100%;
+    float: left;
+}
+.menu {
+    width: 20%;
 }
